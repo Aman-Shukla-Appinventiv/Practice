@@ -20,4 +20,5 @@ const styles = StyleSheet.create({
     backgroundColor: Color.grey
   }
 })
+// comment
 export default App;
